@@ -22,6 +22,6 @@ While this free tool is useful, our **Premium Version** is a professional-grade 
 ### Why You Need the Premium Version
 Modern attackers are smart. They don't just use one technique. Our premium tool analyzes the *entire picture* to find complex threats that other systems miss.
 
-## 👉 [Click Here to Get the Premium Version on Gumroad]([YOUR_GUMROAD_LINK_HERE](https://scripthub.gumroad.com/l/Analyze))
+## 👉 [Click Here to Get the Premium Version on Gumroad](https://scripthub.gumroad.com/l/Analyze)
 
 Protect your assets with a professional tool. Get the complete, advanced version today!
