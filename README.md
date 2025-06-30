@@ -1,3 +1,4 @@
+e complete, advanced version today!
 # Simple Security Log Analyzer Tool
 
 This is a simple, free Python script to analyze server logs for basic suspicious activities. It's designed to be easy to use and understand, even for beginners.
@@ -22,6 +23,6 @@ While this free tool is useful, our **Premium Version** is a professional-grade 
 ### Why You Need the Premium Version
 Modern attackers are smart. They don't just use one technique. Our premium tool analyzes the *entire picture* to find complex threats that other systems miss.
 
-## 👉 [Click Here to Get the Premium Version on Gumroad](https://scripthub.gumroad.com/l/Analyze)
+## 👉 [Click Here to Get the Premium Version on Gumroad](https://scripthub.gumroad.com/l/Analyzerlog)
 
 Protect your assets with a professional tool. Get the complete, advanced version today!
